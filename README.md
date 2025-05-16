@@ -1,4 +1,4 @@
-![Banner](./github-header-image.png)
+![Banner](./IMG_7186.png)
 
 - 👨‍🎓 Engenharia da computaçao - 3º Periodo
 - 📕 Estudando Java

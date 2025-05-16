@@ -1,4 +1,4 @@
-![Banner](./1.png)
+![Banner](./github-header-image.png)
 
 - 👨‍🎓 Engenharia da computaçao - 3º Periodo
 - 📕 Estudando Java

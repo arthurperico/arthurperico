@@ -1,4 +1,4 @@
-## olá! Eu sou o Arthur Perico 
+![Banner](./github-header-image.png)
 
 - 👨‍🎓 Engenharia da computaçao - 3º Periodo
 - 📕 Estudando Java

@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Engenharia da computaçao - 3º Periodo
-- 📕 Estudando Java
+- 📕 Estudando Java & Python
   
 
  <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></code>

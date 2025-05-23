@@ -30,7 +30,7 @@
  <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurperico&theme=github_dark"/>
 <br>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF0000&section=footer"/>
 
 
 

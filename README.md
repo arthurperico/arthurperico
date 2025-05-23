@@ -30,6 +30,11 @@
  <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurperico&theme=github_dark"/>
 <br>
 
+picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurperico/arthurperico/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurperico/arthurperico/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurperico/arhturperico/output/pacman-contribution-graph.svg">
+</picture>
 
 
 

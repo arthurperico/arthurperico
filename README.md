@@ -14,12 +14,14 @@
 - 📕 Estudando Java & Python
   
 </td>
- <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></code>
-&nbsp; 
+ 
 </td>
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></code>
-&nbsp; 
+<img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
+  <!-- Python -->
 </td>
+ <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg">
+</div>
+
 
 <br>
 <img height="20" alt="GIF" src="https://github.com/arthurperico/arthurperico/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
